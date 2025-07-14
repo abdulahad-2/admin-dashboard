@@ -1,39 +1,35 @@
 # 🚀 Material Dashboard 2 React — Customized by Abdul Ahad
 
-[![Live Demo](https://img.shields.io/badge/Demo-View%20Live%20Dashboard-blue)](http://localhost:3000)
-[![GitHub](https://img.shields.io/github/stars/abdulahad-2/material-dashboard-react?style=social)](https://github.com/abdulahad-2)
+[![Live Demo](https://img.shields.io/badge/Demo-View%20Live%20Dashboard-blue)](https://abdulahad-2.github.io/admin-dashboard/)
+[![GitHub](https://img.shields.io/github/stars/abdulahad-2/admin-dashboard?style=social)](https://github.com/abdulahad-2/admin-dashboard)
 [![Email](https://img.shields.io/badge/Email-ahadking6152@gmail.com-red)](mailto:ahadking6152@gmail.com)
 
-![Screenshot](https://s3.amazonaws.com/creativetim_bucket/products/71/original/material-dashboard-react.jpg?1638950990)
+![Screenshot](./ss.png)
 
 ---
 
 ## 🧠 About This Project
 
-This is a **customized version** of the original [Material Dashboard 2 React](https://www.creative-tim.com/product/material-dashboard-react) template created by Creative Tim. I’ve modified it to use a **dark theme by default**, added personal customizations, and prepared it for real-world admin panel or dashboard use.
+This project reflects my **learning and customization skills** as a frontend developer. I enhanced Creative Tim’s template into a **fully personalized dark-themed admin panel** with cleaner UI, better responsiveness, and branding.  
 
-> Designed and modified by **Abdul Ahad**
+> Proudly developed by **Abdul Ahad** — combining design sense, coding, and deployment skills.
 
 ---
 
 ## ✨ Features
 
-- 🌙 **Default Dark Theme**
-- 🎨 Material UI v5 styling
-- 🧩 Modular React Components
-- 📱 Fully Responsive
-- 📊 Dashboard Widgets (Revenue, Sales, Orders, etc.)
-- 🧠 Easy customization using `context` and theme config
+- 🌙 Default Dark Theme  
+- 🎨 Material UI v5 Styling  
+- 🧩 Modular React Components  
+- 📱 Responsive Across All Devices  
+- 📊 Real-Time Dashboard Widgets  
+- ⚙️ Clean Code & Easy Customization  
 
 ---
 
 ## 🧑‍💻 Developer Info
 
-- **Name**: Abdul Ahad
-- **Email**: [ahadking6152@gmail.com](mailto:ahadking6152@gmail.com)
-- **GitHub**: [@abdulahad-2](https://github.com/abdulahad-2)
-- **Portfolio**: _(Add your Vercel/GitHub Page/Live Link Here)_
-
----
-
-## 📂 Folder Structure
+- **Name**: Abdul Ahad  
+- **Email**: [ahadking6152@gmail.com](mailto:ahadking6152@gmail.com)  
+- **GitHub**: [@abdulahad-2](https://github.com/abdulahad-2)  
+- **Live Site**: [Dashboard on GitHub Pages](https://abdulahad-2.github.io/admin-dashboard/)
